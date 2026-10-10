@@ -5,8 +5,8 @@
 ---
 
 ## 🌐 رابط المعاينة الحية (Live Demo)
-يمكنك زيارة الموقع المنشور عبر الرابط التالي:
-[https://mokhtar-houssien.github.io/ibn-sowaid-travel/](https://mokhtar-houssien.github.io/ibn-sowaid-travel/)
+يمكنك زيارة الموقع المنشور عبر الرابط التالي[:
+[https://ibn-sowaid-travel.vercel.app](https://ibn-sowaid-travel.vercel.app)
 
 ---
 
